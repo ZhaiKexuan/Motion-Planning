@@ -5,12 +5,33 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/ZhaiKexuan/Motion-Planning/blob/master/Comparison-of-DFS-UCS-and-Astar/images/image4.png)
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`
+In this project, I implemented a number of search algorithms to guide an agent through a grid-based world. For simplicity, we'll assume that the state space is 2-dimensional, consisting of the grid location of the agent.
 
+There following method is covered:
+* Depth-first search algorithm 
+* Uniform_cost_search algorithm
+* A* graph search algorithm
+
+### Built With
+* [Python 3.6](https://www.python.org/downloads/release/python-360/)
+* [Matplotlib](https://matplotlib.org/)
+
+<!-- GETTING STARTED -->
+### Installation
+1. Clone the repo
+```sh
+git clone https://github.com/ZhaiKexuan/Motion-Planning/tree/master/Comparison-of-DFS-UCS-and-Astar
+```
+2. Install matplotlib
+```sh
+pip install matplotlib
+```
+3. display the grid world and generate different maps through the GUI
+```sh
+python search.py
+```
 
 ## Depth First Search
 <div align=center><img src="https://github.com/ZhaiKexuan/Motion-Planning/blob/master/Comparison-of-DFS-UCS-and-Astar/images/image1.png"/></div>
