@@ -5,19 +5,18 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<div align=center><img src="https://github.com/ZhaiKexuan/Motion-Planning/blob/master/Comparison-of-DFS-UCS-and-Astar/images/image4.png"/></div>
-
+<div align=center><img width="500" height="375" src="https://github.com/ZhaiKexuan/Motion-Planning/blob/master/Comparison-of-DFS-UCS-and-Astar/images/image1.png"/></div>
 In this project, I implemented a number of search algorithms to guide an agent through a grid-based world. For simplicity, we'll assume that the state space is 2-dimensional, consisting of the grid location of the agent.
 
 There following method is covered:
 * Depth-first search algorithm
-<div align=center><img src="https://github.com/ZhaiKexuan/Motion-Planning/blob/master/Comparison-of-DFS-UCS-and-Astar/images/image1.png"/></div>
+<div align=center><img width="500" height="375" src="https://github.com/ZhaiKexuan/Motion-Planning/blob/master/Comparison-of-DFS-UCS-and-Astar/images/image1.png"/></div>
 
 * Uniform_cost_search algorithm
-<div align=center><img src="https://github.com/ZhaiKexuan/Motion-Planning/blob/master/Comparison-of-DFS-UCS-and-Astar/images/image2.png"/></div>
+<div align=center><img width="500" height="375" src="https://github.com/ZhaiKexuan/Motion-Planning/blob/master/Comparison-of-DFS-UCS-and-Astar/images/image2.png"/></div>
 
 * A* graph search algorithm
-<div align=center><img src="https://github.com/ZhaiKexuan/Motion-Planning/blob/master/Comparison-of-DFS-UCS-and-Astar/images/image3.png"/></div>
+<div align=center><img width="500" height="375" src="https://github.com/ZhaiKexuan/Motion-Planning/blob/master/Comparison-of-DFS-UCS-and-Astar/images/image3.png"/></div>
 
 ### Built With
 * [Python 3.6](https://www.python.org/downloads/release/python-360/)
